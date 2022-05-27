@@ -9,7 +9,7 @@ This framework provides a configurable pipeline for data processing. The steps p
 6. Normalizing the data by using the provided method in the config file
 
 ### Installation
-The Data Preprocessing Pipeline Framework is an open-source framework available on [GitHub](). <br/>
+The Data Preprocessing Pipeline Framework is an open-source framework available on [GitHub](https://github.com/dariamarc/DataPreprocessingPipeline). <br/>
 The first step is to download the project archive or to clone the GitHub repository.
 <br/>
 Copy all of the provided files into your own project. <br/>
