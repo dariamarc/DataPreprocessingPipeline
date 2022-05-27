@@ -1,6 +1,6 @@
 # Data Preprocessing Pipeline Framework
 
-This framework provides a configurable pipeline for data processing. The steps present in this pipeline are as follows:
+This framework provides a configurable pipeline for data preprocessing. The steps present in this pipeline are as follows:
 1. Reading the data from the file (supported filetypes are csv)
 2. Dealing with missing data (by ignoring rows or attributes or by using a filler value provided in the config file to replace the Null values)
 3. Attribute selection for input data and output data
